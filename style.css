@@ -129,7 +129,7 @@ body {
 
 .hero {
     min-height: 100vh;
-    background-image: url('img/Herro.jpg'); /* <-- Change this to your image */
+    background-image: url('Herro.jpg'); /* <-- Change this to your image */
     background-size: cover;
     background-position: center;
     display: flex;
@@ -201,15 +201,15 @@ h1 {
 }
 
 .parallax-1 {
-    background-image: url('img/parallax-1.jpg'); /* <-- Change this */
+    background-image: url('parallax-1.jpg'); /* <-- Change this */
 }
 
 .parallax-2 {
-    background-image: url('img/parallax-2.jpg'); /* <-- Change this */
+    background-image: url('parallax-2.jpg'); /* <-- Change this */
 }
 
 .parallax-3 {
-    background-image: url('img/parallax-3.jpg'); /* <-- Change this */
+    background-image: url('parallax-3.jpg'); /* <-- Change this */
 }
 
 /* ============================================
